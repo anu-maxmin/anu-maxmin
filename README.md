@@ -25,7 +25,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anu-maxmin&show_icons=true&theme=radical" alt="Anagha's GitHub stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anu-maxmin&theme=radical" alt="GitHub Streak" height="180em"/>
 </p>  
 
 ---
@@ -45,4 +44,3 @@
 
 ---
 
-⭐️ *“Keep building, keep learning, keep growing.”*  
